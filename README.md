@@ -1,5 +1,3 @@
-# README
-Biography
 - 👋 Hi, I’m @MikhailBalari
 - 👀 I’m interested in the development of web and mobile applications oriented to the analysis of massive data and to IoT applications. 
 - 🌱 I am currently learning web and mobile apps, python, javascript, reactjs, nodejs, machine learning, AI.
